@@ -4,7 +4,7 @@ A secure, session-based file upload web portal built using **Flask**, **MySQL**,
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔐 **User Authentication**
   - Signup/Login with strong password validation
