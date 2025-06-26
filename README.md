@@ -1,4 +1,4 @@
-# 🛡️ Flask Secure File Upload Portal
+# 🛡️ Flask File Upload Portal
 
 A secure, session-based file upload web portal built using **Flask**, **MySQL**, and **static IP hosting** — fully deployable on a local machine or intranet. Designed for internal document collection, resume submission, or academic applications.
 
